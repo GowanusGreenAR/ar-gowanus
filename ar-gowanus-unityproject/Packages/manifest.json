@@ -1,6 +1,5 @@
 {
   "dependencies": {
-    "com.kyrylokuzyk.arfoundationremote": "file:../Assets/Plugins/ARFoundationRemoteInstaller/com.kyrylokuzyk.arfoundationremote.tgz",
     "com.microsoft.azure.spatial-anchors-sdk.android": "file:../Assets/ARWAYSDK/Azure Spatial SDK/Packages/com.microsoft.azure.spatial-anchors-sdk.android-2.9.0.tgz",
     "com.microsoft.azure.spatial-anchors-sdk.core": "file:../Assets/ARWAYSDK/Azure Spatial SDK/Packages/com.microsoft.azure.spatial-anchors-sdk.core-2.9.0.tgz",
     "com.microsoft.azure.spatial-anchors-sdk.ios": "file:../Assets/ARWAYSDK/Azure Spatial SDK/Packages/com.microsoft.azure.spatial-anchors-sdk.ios-2.9.0.tgz",
